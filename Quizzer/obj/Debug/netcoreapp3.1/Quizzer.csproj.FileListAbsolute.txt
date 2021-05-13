@@ -1,0 +1,13 @@
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.exe
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.deps.json
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.runtimeconfig.json
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.runtimeconfig.dev.json
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.dll
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\bin\Debug\netcoreapp3.1\Quizzer.pdb
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.csprojAssemblyReference.cache
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.AssemblyInfoInputs.cache
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.AssemblyInfo.cs
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.csproj.CoreCompileInputs.cache
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.dll
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.pdb
+C:\Users\Bekah\source\repos\Quizzer\Quizzer\obj\Debug\netcoreapp3.1\Quizzer.genruntimeconfig.cache
